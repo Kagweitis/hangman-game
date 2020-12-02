@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c1ea29c6-9add-41f7-8d80-00ee4c93babb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hangman/HangmanGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hangman/HangmanGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HangmanGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HangmanGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +31,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.HangmanGame">
+    <configuration name="Hangman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hangman" />
+      <module name="hangman" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HangmanGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HangmanGame" />
       <module name="hangman" />
@@ -40,6 +49,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.HangmanGame" />
+        <item itemvalue="Application.Hangman" />
       </list>
     </recent_temporary>
   </component>
@@ -57,25 +67,36 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1286" height="176" key="GridCell.Tab.0.bottom" timestamp="1606893548456">
+    <state width="1323" height="176" key="GridCell.Tab.0.bottom" timestamp="1606909140327">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1286" height="176" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1606893548456" />
-    <state width="1286" height="176" key="GridCell.Tab.0.center" timestamp="1606893548456">
+    <state width="1323" height="176" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1606909140327" />
+    <state width="1323" height="176" key="GridCell.Tab.0.center" timestamp="1606909140326">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1286" height="176" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1606893548456" />
-    <state width="1286" height="176" key="GridCell.Tab.0.left" timestamp="1606893548456">
+    <state width="1323" height="176" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1606909140326" />
+    <state width="1323" height="176" key="GridCell.Tab.0.left" timestamp="1606909140326">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1286" height="176" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1606893548456" />
-    <state width="1286" height="176" key="GridCell.Tab.0.right" timestamp="1606893548456">
+    <state width="1323" height="176" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1606909140326" />
+    <state width="1323" height="176" key="GridCell.Tab.0.right" timestamp="1606909140326">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1286" height="176" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1606893548456" />
+    <state width="1323" height="176" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1606909140326" />
     <state x="339" y="174" key="run.anything.popup" timestamp="1606892320157">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="339" y="174" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1606892320157" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HangmanGame.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
